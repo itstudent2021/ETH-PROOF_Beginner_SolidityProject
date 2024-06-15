@@ -1,8 +1,8 @@
-# ETH-PROOF_Beginner_SolidityProject
+# ETH-PROOF_Beginner_M3_SolidityProject
 
 ## Description
 
-This is my output of Solifity Project in Metacrafters ETH-PROOF Beginner course in Getting started with Solidity
+This is my output of Module 3 Solidity Project in Metacrafters ETH-PROOF Beginner course in Getting started with Solidity
 
 
 ## Authors
